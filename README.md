@@ -11,7 +11,7 @@ The dataset used in this project includes information on games released up to 20
 - Genre
 - Sales in North America, Europe, Japan and other regions
 - Critics' and users' scores
-- Age rating
+- Age rating 
 
 ## Methodology
 1. **Data Preparation: Data cleaning and pre-processing, including treatment of missing values and normalization.
